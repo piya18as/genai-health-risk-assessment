@@ -1,4 +1,4 @@
-# genai-health-risk-assessment
+# Gen-Ai_Health-Risk-Assessment
 AI-powered health risk assessment and personalized recommendation system for diabetes, cardiovascular disease, and related comorbidities using machine learning and generative AI.
 # Gen-AI Based Health Risk Assessment and Personalized Health Recommendation System
 
