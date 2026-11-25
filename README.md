@@ -1,4 +1,6 @@
-# Gen-Ai_Health-Risk-Assessment
+# NIVORIX
+Intelligence for a healthier tomorrow.
+AI-powered multi-disease risk assessment and personalized decision support.
 AI-powered health risk assessment and personalized recommendation system for diabetes, cardiovascular disease, and related comorbidities using machine learning and generative AI.
 # Gen-AI Based Health Risk Assessment and Personalized Health Recommendation System
 
